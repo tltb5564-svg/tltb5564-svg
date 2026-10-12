@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**tltb5564-svg/tltb5564-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm a Senior Frontend & Software Engineer 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 **Expertise:** Specialized in building high-performance web applications using **JavaScript** and **TypeScript**.
+- 🛠️ **Focus Areas:** Frontend architecture, clean code, scalable UI/UX components, and robust logic testing.
+- 🎯 **Goal:** Accelerating tech products and engineering high-quality digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Next.js, Node.js
+- **Tools & Ecosystem:** Git, GitHub, Webpack, Vite, Tailwind CSS
+
+---
+
+## 📊 GitHub Stats & Performance
+<p align="left">
+<img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Connect with Me
+- 🌐 Looking for asynchronous, result-driven remote roles and software engineering opportunities.
